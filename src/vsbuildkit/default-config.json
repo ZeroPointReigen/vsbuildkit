@@ -1,0 +1,6 @@
+{
+    "channel_url": "https://aka.ms/vs/17/release/channel",
+    "language": "en-us",
+    "target": "x64",
+    "host": "x64"
+}
